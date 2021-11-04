@@ -1,0 +1,10 @@
+{
+  "name": "@elabs/docs",
+  "short_name": "@elabs/docs",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9b65ba",
+  "lang": "en"
+}
